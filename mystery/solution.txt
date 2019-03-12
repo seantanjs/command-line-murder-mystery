@@ -1,0 +1,37 @@
+819  mkdir murder-mystery
+  820  ls
+  821  cd murder-mystery
+  822  git clone https://github.com/seantanjs/command-line-murder-mystery.git
+  823  ls
+  824  cd command-line-murder-mystery/
+  825  kls
+  826  lks
+  827  ls
+  828  sublime instructions 
+  829  cat instructions 
+  830  ls
+  831  cd mystery
+  832  ls
+  833  cd crimescene
+  834  ls
+  835  cat crimescene
+  836  cat crimescene | grep CLUE
+  837  echo {cat crimescene | grep CLUE} > clue.txt
+  838  ls
+  839  cat clue.txt
+  840  echo (cat crimescene | grep CLUE) >> clue.txt
+  841  echo (cat crimescene | grep CLUE) > clue.txt
+  842  echo {cat crimescene | grep CLUE} >> clue.txt
+  843  ls
+  844  cd clue.txt
+  845  cat clue.txt
+  846  sublime clue.txt
+  847  ls
+  848  rm clue.txt
+  849  ls
+  850  cat crimescene | grep CLUE
+  851  ls
+  852  touch solution.txt
+  853  history
+CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'. CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason. CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+name of killer: Annabel
